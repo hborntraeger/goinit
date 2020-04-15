@@ -1,3 +1,3 @@
-module github.com/hborntraeger/vsinit
+module github.com/hborntraeger/goinit
 
 go 1.14
